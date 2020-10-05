@@ -1,6 +1,6 @@
 ### Hi there, I'm Prajval
 
-I'm a Electronics and communication Engineer. Current working at Global edge software Ltd. 
+I'm an Electronics and communication Engineer. Current working at Global edge software Ltd. 
 
 ### contact me:
 	
