@@ -2,19 +2,19 @@
 
 I'm an Software Engineer. Currently working at Nokia Networks India as an Operating Systems Engineer.
 
-### contact me:
-	
-[twitter][twitter] <br>
-[linkedin][linkedin] <br>
-[instagram][instagram] <br>
+### Contact me
 
-### Languages and Tools:
+[twitter][twitter]  
+[linkedin][linkedin]  
+[instagram][instagram]  
+
+### Languages and Tools
+
 - c
 - python
 - bash
 - neovim
 - linux
-<br>
 
 [my configs/dotfiles][dotfiles]
 
