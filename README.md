@@ -10,11 +10,12 @@ I'm an Software Engineer. Currently working at Nokia Networks India as an Operat
 
 ### Languages and Tools
 
-- c
-- python
-- bash
-- neovim
-- linux
+- C
+- Python
+- TypeScript
+- Bash
+- Neovim
+- Linux
 
 [my configs/dotfiles][dotfiles]
 
