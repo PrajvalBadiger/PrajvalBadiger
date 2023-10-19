@@ -1,4 +1,4 @@
-# Hi there, I'm Prajval
+# Hi there, I'm Prajval 👋
 
 I'm an Software Engineer. Currently working at Nokia Networks India as an Operating Systems Engineer.
 
