@@ -1,6 +1,6 @@
 # Hi there, I'm Prajval 👋
 
-I'm an Software Engineer. Currently working at Nokia Networks India as an Operating Systems Engineer.
+I'm a Software Engineer. Currently working at Nokia Networks India as an Operating Systems Engineer.
 
 ## Contact me
 
@@ -11,8 +11,8 @@ I'm an Software Engineer. Currently working at Nokia Networks India as an Operat
 ## Languages and Tools
 
 - C
+- Go
 - Python
-- TypeScript
 - Bash
 - Neovim
 - Linux
